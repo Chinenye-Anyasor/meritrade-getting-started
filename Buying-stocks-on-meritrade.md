@@ -79,3 +79,6 @@ This guide walks you through the steps required to buy stocks on Meritrade.
     ![an image showing that your order was successful](Images/Buying-stocks/Step11-select-back-home.png)  
     **_An image showing that your order was successful_**  
     Once the order has been successfully placed, you will see a message saying, `Trade Order Placed Successfully`.
+
+> [!NOTE]
+> Every rule here came from a real issue I caught while editing my own guides. I used Claude to help organize, phrase, and refine them into this document.
