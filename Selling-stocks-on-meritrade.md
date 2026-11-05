@@ -61,14 +61,13 @@ This guide walks you through the steps required to sell your stock(s) on Meritra
    This tells those selling your stock(s) for you how long your order is valid for. For example, if you give a limit order and you set 1 day as your order term, if after 1 day, your stock is not sold at the price you wanted, then by the end of the day your order becomes invalid.
 
 9.  ### Click on `Preview Order` 
-   ![an image showing where to click to preview your order](Images/Selling-stocks/Step9-previeworder1.png) 
+    ![an image showing where to click to preview your order](Images/Selling-stocks/Step9-previeworder1.png) 
 
-**_An image showing where to click to preview your order_**
+    **_An image showing where to click to preview your order_**
 
-   ![an image showing the preview ](Images/Selling-stocks/Step9-previeworder2.png)
+    ![an image showing the preview ](Images/Selling-stocks/Step9-previeworder2.png)
 
-**_An image showing the preview_**
-
+    **_An image showing the preview_**  
    Preview your order to ensure everything is correct. You also see the additional cost that comes with selling stocks, such as broker commission and regulatory fees.
 
 10.  ### Click on `SELL` 
