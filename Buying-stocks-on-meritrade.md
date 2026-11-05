@@ -46,7 +46,7 @@ This guide walks you through the steps required to buy stocks on Meritrade.
    ![an image showing the different order types](Images/Buying-stocks/Step7-select-order-type.png)   
 **_An image showing the different order types_**
 
-   > [!IMPORTANT]   
+   >[!IMPORTANT]   
    > Be mindful of when you plan to buy stock(s); try to buy when the market is still open. If you buy stock(s) after the market closes or before it opens, kindly note that you will only be able to place a limit order.
 
    There are two types of orders:    
@@ -64,7 +64,7 @@ This guide walks you through the steps required to buy stocks on Meritrade.
 
    ![an image showing the preview ](Images/Buying-stocks/Step9-preview-order2.png)  
 **_An image showing the preview_** 
- 
+
    Preview your order to ensure everything is correct. You also see the additional cost that comes with buying stocks, such as broker commission and regulatory fees.
 
 10. ### Click on `BUY`
