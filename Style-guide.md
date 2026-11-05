@@ -9,13 +9,10 @@ These are the rules I used to keep the four Meritrade guides consistent and clea
 If the reader has to do things in sequence, use a numbered list. If they're choosing between two equal options (like Market Order vs. Limit Order), use bullets. 
 
 * **Callouts keep the > on every line, not just the first one.**  
-If your important note is two lines, both lines start with >. Also, callouts should come after images.
+If your important note is two lines, both lines start with >. 
 
 * **Two kinds of callouts, two jobs.**  
 [!NOTE] is for background info that doesn't change what the reader does. [!IMPORTANT] is for anything that actually changes what they need to do.
-
-* **Say the important thing before it matters, not after.**  
-Fees, warnings, anything that changes what the reader should do, goes before the step it affects. Nobody needs to know about a fee after they've already paid it.
 
 * **The command or instruction for a step lives in the step heading only.**  
 Body text underneath describes confirmation or context, and never repeats the command or instruction for the same action.
@@ -23,13 +20,13 @@ Body text underneath describes confirmation or context, and never repeats the co
 ### Images & Captions
 
 * **All images for a project live in one parent-level folder, with a subfolder per guide.**  
- No guide gets its own separate top-level folder.
+No guide gets its own separate top-level folder.
 
 * **File names: first word starts with a capital letter, then the rest is lowercase, hyphens, no parentheses.**  
 Parentheses can actually break how Markdown reads the image path, not just look messy.
 
 * **Alt text and caption say the same thing, always.**   
-Write the description once, use it both places. Captions are wrapped in italics.
+Write the description once, use it both places. 
 
 * **Two images in one step should have their own captions.**     
 Never make one caption cover two or more screenshots. Caption(s) should be italicized and bold.
@@ -49,8 +46,6 @@ Don't sneak your own words in there. If the screen says "Funding request is bein
 
 * **Hyphenate number + unit. "4-digit PIN," not "4 digit pin."**  
 And once you pick how PIN is capitalized, keep it that way everywhere, not just in the heading.
-
-* **Always leave one line space between steps and between sections.**
 
 ### Content Accuracy
 * **Check every prerequisite against every path in the guide.**  
