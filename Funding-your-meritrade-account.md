@@ -17,12 +17,12 @@ To buy and sell stocks on Meritrade, you need to fund your Meritrade account, an
 **_An image showing the Log in page_**  
    Enter your email address and password to log in to your Meritrade account.
 
+> [!IMPORTANT]  
+> Each funding transaction attracts a 1% processing fee, capped at ₦300. This means that for every amount you fund your account with, 1% is deducted as a fee, but if that 1% exceeds ₦300, only ₦300 will be deducted regardless.
+
 2. ### Click on `Add money` 
    ![an image showing the location of `Add Money`](Images/Funding-stock/Step2-Add-money.png)  
-  **_An image showing the location of `Add Money`_**
-
-   > [!IMPORTANT]  
-   > Each funding transaction attracts a 1% processing fee, capped at ₦300. This means that for every amount you fund your account with, 1% is deducted as a fee, but if that 1% exceeds ₦300, only ₦300 will be deducted regardless. 
+  **_An image showing the location of `Add Money`_** 
 
    There are two ways to fund your account: 
 * **Through bank transfer:**   
