@@ -46,19 +46,19 @@ This guide walks you through the steps required to buy stocks on Meritrade.
    ![an image showing the different order types](Images/Buying-stocks/Step7-select-order-type.png)   
    **_An image showing the different order types_**
 
-   > [!IMPORTANT]   
+   > [!IMPORTANT]
    > Be mindful of when you plan to buy stock(s); try to buy when the market is still open. If you buy stock(s) after the markgiet closes or before it opens, kindly note that you will sonly be able to place a limit order.
 
    There are two types of orders:    
 * **Market Order**: this is an instruction to buy the stock immediately at the best available price. Select this order if you want to buy the stock immediately, regardless of price.  
 * **Limit Order**: this is an instruction to buy only if the price gets to a certain level specified by you. Select this order when you want to buy a stock when it s at a specific price.
 
-8. ### Select `Order Term`
+1. ### Select `Order Term`
    ![an image showing where to select Order Term](Images/Buying-stocks/Step8-select-order-term.png)  
 **_An image showing where to select Order Term_**  
    Order term specifies how long your order is valid for. For example, if you place a limit order with a 1-day term and the price you wanted isn't reached within that day, the order becomes invalid at the end of the day.
 
-9. ### Click on `Preview order`
+1. ### Click on `Preview order`
    ![an image showing where to click to preview your order](Images/Buying-stocks/Step9-select-preview-order.png)  
 **_An image showing where to click to preview your order_**
 
@@ -67,12 +67,12 @@ This guide walks you through the steps required to buy stocks on Meritrade.
 
    Preview your order to ensure everything is correct. You also see the additional cost that comes with buying stocks, such as broker commission and regulatory fees.
 
-10. ### Click on `BUY`
+1.  ### Click on `BUY`
     ![an image showing the `Buy` button](Images/Buying-stocks/Step10-select-buy.png)  
 **_An image showing the `BUY` button_**  
     Once you click on `BUY`, you will receive a copy of your trade order and a contract note in your email linked to Meritrade.
 
-11. ### Click on `Back to home`
+1.  ### Click on `Back to home`
     ![an image showing that your order was successful](Images/Buying-stocks/Step11-select-back-home.png)  
     **_An image showing that your order was successful_**  
     Once the order has been successfully placed, you will see a message saying, `Trade Order Placed Successfully`.
