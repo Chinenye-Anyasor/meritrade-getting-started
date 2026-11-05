@@ -18,12 +18,12 @@ This documentation is for users new to buying and selling stocks on Meritrade. T
    **_An image showing where to click `Create an account`_**  
    The `Login` button is for users with an existing account on the app.  
 
+> [!IMPORTANT]
+> Please use an email address that has never been used to create an account on Meritrade, if not the system will flag it. In addition, your password must contain 8 characters consisting of an uppercase letter, a lowercase letter, a number, and a special character.
+
 2. ### Select `Individual`
    ![an image showing where to select `Individual` to open an individual account](Images/Creating-an-account/Individual-corporate-account.png)    
 **_An image showing where to select `Individual` to open an individual account_**
-
-   > [!IMPORTANT]
-   > Please use an email address that has never been used to create an account on Meritrade, if not the system will flag it. In addition, your password must contain 8 characters consisting of an uppercase letter, a lowercase letter, a number, and a special character.
 
    On this page, two options are available to you:  
     * `Individual` — select this if you intend to buy and sell stocks on a personal basis. The fields for name, email address, and password will show; fill them out.
@@ -48,24 +48,25 @@ This documentation is for users new to buying and selling stocks on Meritrade. T
    ![an image showing where to enter all the details required to verify your identity](Images/Creating-an-account/Identity-verification.png)  
    **_An image showing where to enter all the details required to verify your identity_**
 
-   > [!NOTE]
-   > CHN stands for Clearing House Number; it is a unique, permanent identification number assigned to every investor in the Nigerian Stock Exchange.
-
    To verify your identity, fill out the following:
    * `BVN(Bank verification number)`
    * `NIN(National verification Number)`
    * `Settlement bank account number`
    * `Settlement bank name` — once filled out, the `Account Holder name` field is automatically filled in for you.
-   * `Do you have an existing CHN Number?` — tick `Yes` or `No`. If `Yes`, enter your CHN.  
+   * `Do you have an existing CHN Number?` — tick `Yes` or `No`. If `Yes`, enter your CHN. 
+
+> [!NOTE]
+> CHN stands for Clearing House Number; it is a unique, permanent identification number assigned to every investor in the Nigerian Stock Exchange. 
   
 7. ### Enter the required details to `Complete your account information` and click `Next`
-   ![an image showing the first half of the account information form](Images/Creating-an-account/Account-info1.png)  
-   **_An image showing the first half of the account information form_** 
-   ![an image showing the second half of the account information form](Images/Creating-an-account/Account-info2.png)  
-   **_An image showing the second half of the account information form_**  
-   > [!NOTE]
-   > At this stage you cannot change your last name, first name, and date of birth.
+   ![an image showing the first half of the account information form](Images/Creating-an-account/Account-info1.png) 
 
+   **_An image showing the first half of the account information form_**
+
+   ![an image showing the second half of the account information form](Images/Creating-an-account/Account-info2.png)
+     
+   **_An image showing the second half of the account information form_**  
+   
    To complete your account information, fill out the following:
    * `Middle name (Optional)`
    * `Mother's Maiden Name`
