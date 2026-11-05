@@ -43,19 +43,20 @@ This guide walks you through the steps required to buy stocks on Meritrade.
    When you created your Meritrade account, you were automatically assigned a portfolio. Select it.
 
 7. ### Select `Order Type`
+   
+   > [!IMPORTANT]
+   > Be mindful of when you plan to buy stock(s); try to buy when the market is still open. If you buy stock(s) after the market closes or before it opens, kindly note that you will only be able to place a limit order.
+
    ![an image showing the different order types](Images/Buying-stocks/Step7-select-order-type.png)  
 
    **_An image showing the different order types_**
-
-   > [!IMPORTANT]
-   > Be mindful of when you plan to buy stock(s); try to buy when the market is still open. If you buy stock(s) after the market closes or before it opens, kindly note that you will only be able to place a limit order.
 
    There are two types of orders: 
 
    * **Market Order**: this is an instruction to buy the stock immediately at the best available price. Select this order if you want to buy the stock immediately, regardless of price.  
    * **Limit Order**: this is an instruction to buy only if the price gets to a certain level specified by you. Select this order when you want to buy a stock when it s at a specific price.
 
-1. ### Select `Order Term`
+8. ### Select `Order Term`
    ![an image showing where to select Order Term](Images/Buying-stocks/Step8-select-order-term.png)  
 **_An image showing where to select Order Term_**  
    Order term specifies how long your order is valid for. For example, if you place a limit order with a 1-day term and the price you wanted isn't reached within that day, the order becomes invalid at the end of the day.
