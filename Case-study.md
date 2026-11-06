@@ -8,9 +8,9 @@ I took several technical communication courses and wanted to practice what I lea
 * Buying stocks  
 * Selling stocks  
   
-I also included an FAQ section as part of my unofficial portfolio project. (Link to the guide). 
+I also included an FAQ section as part of my unofficial portfolio project. 
 
-### The problem
+### Audience 
 
 The guide is written for end users who, regardless of their investing experience, have never used Meritrade and aren't familiar with its user interface (UI).
 
@@ -23,7 +23,7 @@ The guide is written for end users who, regardless of their investing experience
 5. Edited the guides against my style guide built from patterns I caught in my drafts. 
 6. Version-controlled the guides with Git and published them on GitHub. 
      
-### Key decision
+### Key decisions
 
 * Early on, each guide had its own top-level image folder. As the suite grew to four guides, I restructured to a single images/ folder with a subfolder per guide. It’s a small choice, but it helps anyone browsing the repo see one clear system instead of four similar ones. This consistency reflects my goals for the writing and the file structure.
   
@@ -31,7 +31,7 @@ The guide is written for end users who, regardless of their investing experience
   
 * I felt torn between adding an FAQ inside each guide and creating a standalone FAQ section. I chose the latter. I wanted all answers in one place. This way, the task guides stayed short and focused. Plus, it made updating one page easier.  
 
-### A finding worth flagging
+### Issues worth flagging
 
 * While documenting the workflow for creating a Meritrade account, the phone verification step failed. I was supposed to receive an OTP to verify my phone number, but I didn't. Despite clicking `Resend OTP` several times, I still didn’t receive the OTP. I contacted the support team, but they didn’t respond that day. So I started the account creation process again, but found I couldn't because the process I started the other day was still active; I just hadn't completed the registration. So instead of clicking on ‘Create account’, I clicked on ‘Login’. Surprisingly, I was no longer stuck on the phone verification step, but I had moved to the next step. (An undocumented workaround).
 
@@ -43,6 +43,6 @@ This is a software issue, so the engineering team should handle it, not the supp
 
 Four user guides, the style guide, and a consistent folder structure.
 
-### What I would do differently or next
+### What I would do next
 
-Re-test the flow after fixing the OTP and PIN issue. Update it to show the fix.
+Re-test the flow to check if the OTP and PIN issue has been fixed. Update my guides to show the fix.
